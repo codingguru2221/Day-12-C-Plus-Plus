@@ -1,10 +1,10 @@
-# C++ Learning Series Day 1 to 11 Intensive Revision 🚀
+# C++ Learning Series - 1 to 11-Day Intensive Revision 🚀
 
 A structured revision guide to master core C++ concepts in 1 to 11 days. Perfect for quick review, interview prep, or strengthening your fundamentals!
 
 ---
 
-## **Table of Topics** 📋
+## **Table of Topics** 👋
 
 | **Day**  | **Topic**                           | **Key Concepts** | **Repository Link** | **Revision Questions** |
 |----------|------------------------------------|-------------------|----------------------|-------------------------|
@@ -16,6 +16,9 @@ A structured revision guide to master core C++ concepts in 1 to 11 days. Perfect
 | **Day 06** | Classes and Objects | Object-Oriented Programming (OOP), Constructors, Destructors | [Day 06 Repo](https://github.com/codingguru2221/Day-06-C-Plus-Plus.git) | 1. What is a class, and how is it different from an object? <br> 2. Write a program to define a class with a constructor and destructor. <br> 3. What is the purpose of access specifiers (`public`, `private`, `protected`)? <br> 4. How do you define a member function outside the class? <br> 5. What is the difference between a constructor and a destructor? |
 | **Day 07** | Operator Overloading | Overloading `+`, `-`, `*`, Friend Functions | [Day 07 Repo](https://github.com/codingguru2221/Day-07-C-Plus-Plus.git) | 1. What is operator overloading? <br> 2. Write a program to overload the `+` operator. <br> 3. What is a friend function, and how is it used? <br> 4. Can you overload the `=` operator? If yes, how? <br> 5. What are the rules for operator overloading in C++? |
 | **Day 08** | Loops and Iterations | Nested Loops, Loop Control Statements (`break`, `continue`) | [Day 08 Repo](https://github.com/codingguru2221/Day-08-C-Plus-Plus.git) | 1. Write a program to print a pyramid pattern using nested loops. <br> 2. What is the difference between `break` and `continue`? <br> 3. How do you avoid infinite loops? <br> 4. Write a program to find the sum of digits of a number using a loop. <br> 5. What is the purpose of the `goto` statement? |
+| **Day 09** | Functions in Depth | Function Templates, Function Overloading, Scope of Variables | [Day 09 Repo](https://github.com/codingguru2221/Day-09-C-Plus-Plus.git) | 1. What is a function template, and how is it used? <br> 2. Write a program to demonstrate function overloading. <br> 3. What is the scope of a variable in C++? <br> 4. How do you pass an array to a function? <br> 5. What is the difference between local and global variables? |
+| **Day 10** | OOP Principles | Encapsulation, Inheritance, Polymorphism, Abstraction | [Day 10 Repo](https://github.com/codingguru2221/Day-10-C-Plus-Plus.git) | 1. What are the four pillars of OOP? <br> 2. Write a program to demonstrate inheritance. <br> 3. What is polymorphism, and how is it achieved in C++? <br> 4. How do you achieve abstraction in C++? <br> 5. What is the difference between `public`, `private`, and `protected` inheritance? |
+| **Day 11** | Advanced Functions | Function Overloading, Virtual Functions, Function Pointers | [Day 11 Repo](https://github.com/codingguru2221/Day-11-C-Plus-Plus.git) | 1. What is a virtual function, and how is it used? <br> 2. Write a program to demonstrate function pointers. <br> 3. What is the difference between compile-time and runtime polymorphism? <br> 4. How do you override a function in C++? <br> 5. What is the purpose of the `override` keyword? |
 
 ---
 
