@@ -2,6 +2,10 @@
 
 A structured revision guide to master core C++ concepts in 1 to 11 days. Perfect for quick review, interview prep, or strengthening your fundamentals!
 
+Created by Codex ✨
+
+This series is created and maintained by Codex, dedicated to making C++ learning structured and efficient.
+
 ---
 
 ## **Table of Topics** 👋
