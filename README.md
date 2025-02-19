@@ -2,13 +2,11 @@
 
 A structured revision guide to master core C++ concepts in 1 to 11 days. Perfect for quick review, interview prep, or strengthening your fundamentals!
 
----
+
 
 ## **Created by Codex** ✨
 This series is created and maintained by **Codex**, dedicated to making C++ learning structured and efficient.
 
----
----
 
 ## **Table of Topics** 👋
 
@@ -26,7 +24,7 @@ This series is created and maintained by **Codex**, dedicated to making C++ lear
 | **Day 10** | OOP Principles | Encapsulation, Inheritance, Polymorphism, Abstraction | [Day 10 Repo](https://github.com/codingguru2221/Day-10-C-Plus-Plus.git) | 1. What are the four pillars of OOP? <br> 2. Write a program to demonstrate inheritance. <br> 3. What is polymorphism, and how is it achieved in C++? <br> 4. How do you achieve abstraction in C++? <br> 5. What is the difference between `public`, `private`, and `protected` inheritance? |
 | **Day 11** | Advanced Functions | Function Overloading, Virtual Functions, Function Pointers | [Day 11 Repo](https://github.com/codingguru2221/Day-11-C-Plus-Plus.git) | 1. What is a virtual function, and how is it used? <br> 2. Write a program to demonstrate function pointers. <br> 3. What is the difference between compile-time and runtime polymorphism? <br> 4. How do you override a function in C++? <br> 5. What is the purpose of the `override` keyword? |
 
----
+
 
 ## **How to Use This Repository** 💡
 1. **Daily Revision**: Follow one folder per day (e.g., `Day_01/` for Day 1).
@@ -34,16 +32,11 @@ This series is created and maintained by **Codex**, dedicated to making C++ lear
 3. **Cheat Sheets**: Summaries of syntax and key rules for quick reference.
 4. **Exercises**: Practice problems to test your understanding (solutions included).
 
----
 
 ## **Prerequisites** 🛠
 - Basic programming knowledge (variables, loops, functions).
 - A C++ compiler (e.g., [GCC](https://gcc.gnu.org/), [Visual Studio](https://visualstudio.microsoft.com/)).
 
----
-
-
----
 
 ## **Block Diagrams & Flowcharts** 📊
 To make understanding easier, this repository includes:
@@ -51,7 +44,6 @@ To make understanding easier, this repository includes:
 - Block diagrams for memory allocation and function calls.
 - UML diagrams to visualize object-oriented programming concepts.
 
----
 
 ## **C++ Compilers** 🛠
 To compile and run your programs, you can use:
@@ -62,13 +54,9 @@ To compile and run your programs, you can use:
 - [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
 - Online Compilers like [OnlineGDB](https://www.onlinegdb.com/) and [JDoodle](https://www.jdoodle.com/c-online-compiler)
 
----
 
 ## **Key Features** 🌟
 - **Structured Learning**: Bite-sized topics for focused revision.
 - **Code-Driven Approach**: Learn by writing and testing code.
 - **OOP-Centric**: Deep dive into classes, inheritance, and polymorphism.
 - **Memory Management**: Master pointers, references, and dynamic allocation.
-
----
-
