@@ -1,6 +1,6 @@
-# C++ Learning Series - 11-Day Intensive Revision 🚀
+# C++ Learning Series Day 1 to 11 Intensive Revision 🚀
 
-A structured revision guide to master core C++ concepts in 11 days. Perfect for quick review, interview prep, or strengthening your fundamentals!
+A structured revision guide to master core C++ concepts in 1 to 11 days. Perfect for quick review, interview prep, or strengthening your fundamentals!
 
 ---
 
