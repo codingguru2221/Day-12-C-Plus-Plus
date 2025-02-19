@@ -2,10 +2,12 @@
 
 A structured revision guide to master core C++ concepts in 1 to 11 days. Perfect for quick review, interview prep, or strengthening your fundamentals!
 
-Created by Codex ✨
+---
 
-This series is created and maintained by Codex, dedicated to making C++ learning structured and efficient.
+## **Created by Codex** ✨
+This series is created and maintained by **Codex**, dedicated to making C++ learning structured and efficient.
 
+---
 ---
 
 ## **Table of Topics** 👋
@@ -37,6 +39,28 @@ This series is created and maintained by Codex, dedicated to making C++ learning
 ## **Prerequisites** 🛠
 - Basic programming knowledge (variables, loops, functions).
 - A C++ compiler (e.g., [GCC](https://gcc.gnu.org/), [Visual Studio](https://visualstudio.microsoft.com/)).
+
+---
+
+
+---
+
+## **Block Diagrams & Flowcharts** 📊
+To make understanding easier, this repository includes:
+- Flowcharts explaining loops and conditionals.
+- Block diagrams for memory allocation and function calls.
+- UML diagrams to visualize object-oriented programming concepts.
+
+---
+
+## **C++ Compilers** 🛠
+To compile and run your programs, you can use:
+- [GCC](https://gcc.gnu.org/) (MinGW for Windows)
+- [Visual Studio](https://visualstudio.microsoft.com/)
+- [Clang](https://clang.llvm.org/)
+- [Code::Blocks](http://www.codeblocks.org/)
+- [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
+- Online Compilers like [OnlineGDB](https://www.onlinegdb.com/) and [JDoodle](https://www.jdoodle.com/c-online-compiler)
 
 ---
 
